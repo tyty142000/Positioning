@@ -1,0 +1,26 @@
+.container{
+	width: 1040px;
+	background-color: green;
+	margin: auto;
+	padding: 40px;
+	color: black;
+	overflow: auto;
+}
+
+.left{
+	width: 20%;
+	float: left;
+	background: red;
+}
+
+.middle{
+	width:60%;
+	float: left;
+	background-color: blue;
+}
+
+.right{
+	width: 20%;
+	float: right;
+	background-color: yellow;
+}

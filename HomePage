@@ -1,0 +1,26 @@
+<html>
+  <head>
+  <!-- INSERT A LINK TO A CSS FILE HERE -->
+  <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <body>
+     <!-- GIVE A NAME TO THE ID HERE -->
+    <div class="container">
+     <div class="left"><h1>Tyrese Francis</h1>
+      <a href="HomePage">
+     </div>
+
+
+     <div class="middle"><h2>GAMER CENTRAL</h2>
+      <iframe src="https://www.youtube.com/watch?v=Tpm1yk3enzY">
+      </iframe>
+
+
+     </div>
+     <div class="right"><h3>Photos</h3>
+      <img src=https://s-media-cache-ak0.pinimg.com/564x/31/18/b9/3118b9a11c4823be38c89c8074f01927.jpg></div>
+
+  </div> 
+  </body>
+</html>
